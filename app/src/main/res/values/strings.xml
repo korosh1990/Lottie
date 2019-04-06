@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">لاتی اندروید لایف</string>
+    <string name="rocket_button">موشک</string>
+    <string name="sky_button">آسمان شهر</string>
+    <string name="fire_button">آتش بازی</string>
+    <string name="telegram_button">تلگرام</string>
+    <string name="androidlife">AndroidLife.ir</string>
+</resources>
